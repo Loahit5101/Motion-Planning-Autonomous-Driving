@@ -5,7 +5,9 @@ efficient paths to enable autonomous vehicles to navigate through obstacles and 
 
 ## Setup
 
-Install [CARLA](https://carla.readthedocs.io/en/latest/start_quickstart/)
+1. Install [CARLA](https://carla.readthedocs.io/en/latest/start_quickstart/)
+
+2. Libraries : Matplotlib, Numpy, networkx
 
 ## Static Planning
 
