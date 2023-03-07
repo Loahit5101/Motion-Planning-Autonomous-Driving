@@ -7,5 +7,20 @@ efficient paths to enable autonomous vehicles to navigate through obstacles and 
 
 Install [CARLA](https://carla.readthedocs.io/en/latest/start_quickstart/)
 
+## Static Planning
+
+![ezgif com-crop](https://user-images.githubusercontent.com/55102632/223503461-c54c6c49-5b1b-49c8-9612-6dcc6bb543eb.gif)
+
+
+```
+./CarlaUE4.sh 
+```
+
+```
+python static.py
+```
+
+
+
 
 
